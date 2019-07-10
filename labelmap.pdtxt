@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'box1'
+}
+
+item {
+    id: 2
+    name: 'box2'
+}
+
+item {
+    id: 3
+    name: 'box3'
+}
+
+item {
+    id: 4
+    name: 'box4'
+}
