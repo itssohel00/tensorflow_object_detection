@@ -1,13 +1,13 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>1255.jpg</filename>
-    <path>1stpractice-PascalVOC-export/Annotations/1255.jpg</path>
+    <path>box_lable-PascalVOC-export/Annotations/1255.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>300</width>
-        <height>168</height>
+        <width>700</width>
+        <height>393</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>

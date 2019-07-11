@@ -1,13 +1,13 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>1002.jpg</filename>
-    <path>1stpractice-PascalVOC-export/Annotations/1002.jpg</path>
+    <path>box_lable-PascalVOC-export/Annotations/1002.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>300</width>
-        <height>168</height>
+        <width>700</width>
+        <height>393</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>27.759197324414714</xmin>
-        <ymin>67.65911354581672</ymin>
-        <xmax>123.07692307692308</xmax>
-        <ymax>124.21688247011951</ymax>
+        <xmin>67.11259754738016</xmin>
+        <ymin>159.70498511904762</ymin>
+        <xmax>291.86176142697883</xmax>
+        <ymax>289.14546130952385</ymax>
     </bndbox>
 </object>
 </annotation>
